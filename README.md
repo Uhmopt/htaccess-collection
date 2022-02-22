@@ -1,0 +1,2 @@
+# htaccess-collection
+htaccess examples
